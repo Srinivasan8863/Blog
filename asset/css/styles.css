@@ -1,0 +1,14 @@
+.shadow {
+box-shadow : 5px 10px #888888;
+cursor : pointer;
+}
+.card-link {
+    text-decoration:none;
+    color: black;
+    
+}
+.card-link:hover {
+    text-decoration:none;
+    color: black;
+    
+}
